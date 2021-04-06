@@ -1,0 +1,58 @@
+{
+  "register_user": [
+    {
+      "email": "a@gmail.com",
+      "password": "0987",
+      "firstname": "a",
+      "lastname": "B",
+      "location": "indore",
+      "mobilenumber": "D",
+      "id": 1
+    },
+    {
+      "email": "fdsf@gmail.com",
+      "password": "64",
+      "firstname": "gd",
+      "lastname": "sdf",
+      "location": "indore",
+      "mobilenumber": "fdf",
+      "id": 2
+    },
+    {
+      "email": "m@gmail.com",
+      "password": "123",
+      "firstname": "mohit",
+      "lastname": "p",
+      "location": "indore",
+      "mobilenumber": "3245678",
+      "id": 3
+    },
+    {
+      "email": "amit@gmail.com",
+      "password": "amit",
+      "firstname": "amit",
+      "lastname": "patel",
+      "location": "indore",
+      "mobilenumber": "9111655071",
+      "id": 4
+    }
+  ],
+  "users": [
+    {
+      "description": "time is 13:52",
+      "serverity": "Minor",
+      "status": "In progress",
+      "create_date": "3/22/2021, 1:52:15 PM",
+      "resolve_date": "3/22/2021, 1:52:15 PM",
+      "id": "f12cca84-774b-4d55-b277-bf8f79245178"
+    },
+    {
+      "description": "new one updated",
+      "serverity": "Minor",
+      "status": "Close",
+      "create_date": "4/6/2021, 12:51:29 PM",
+      "resolve_date": "4/6/2021, 12:51:29 PM",
+      "id": "263aa2e5-33b3-439c-850b-b8ea3534bd88"
+    }
+  ]
+}
